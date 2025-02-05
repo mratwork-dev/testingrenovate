@@ -5,6 +5,6 @@
   ],
   "major": {
     "dependencyDashboardApproval": true
-  }
-  
+  },
+  "prHourlyLimit": 0  
 }
